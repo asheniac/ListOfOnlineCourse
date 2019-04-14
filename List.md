@@ -5,7 +5,7 @@
 <h3>The Complete Web Developer in 2019: Zero to Mastery</h3>
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/
 
-<h2>General 中级教程</h2>：
+<h2>General 中级教程:</h2>
 
 <h3>讲师: Andrei Neagoie</h3>
 <h3>The Complete Junior to Senior Web Developer Roadmap (2019)</h3>
