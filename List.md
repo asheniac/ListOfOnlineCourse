@@ -28,8 +28,9 @@ https://www.udemy.com/the-react-practice-course-learn-by-building-projects/learn
 <h3>Fullstack Advanced React & GraphQL</h3>
 https://advancedreact.com/
 
-
-
+<h3>讲师：Samer Buna, Jon Friskics, Cory House, Liam McLennan, Daniel Stern, Hendrik Swanepoel, Jake Trent</h3>
+<h3>React Path</h3>
+https://www.pluralsight.com/paths/react
 
 
 
