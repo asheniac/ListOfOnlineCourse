@@ -1,7 +1,7 @@
-General 基础教程：
+#General 基础教程：
 
-讲师: Andrei Neagoie
-The Complete Web Developer in 2019: Zero to Mastery
+##讲师: Andrei Neagoie
+##The Complete Web Developer in 2019: Zero to Mastery
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery/
 
 General 中级教程：
